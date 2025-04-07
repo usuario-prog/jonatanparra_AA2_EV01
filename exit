@@ -1,0 +1,26 @@
+[33mcommit 1c8fb1c3db9daaccaf3088a3550bd580dff28739[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: jonatan <jonatan_12eduardo@hotmail.com>
+Date:   Wed Mar 19 00:48:34 2025 -0500
+
+    añadir documento search
+
+A	searchJava.java
+
+[33mcommit ed01bd2a16c6e64533454fe24d9168aaefea7102[m
+Author: jonatan <jonatan_12eduardo@hotmail.com>
+Date:   Wed Mar 19 00:32:44 2025 -0500
+
+    nuevos documentos crud
+
+D	JavaApplication1.java
+A	deleteJava.java
+A	insertJava.java
+A	updateJava.java
+
+[33mcommit 30a6080914638c32d50154bc46486363f674f58a[m
+Author: jonatan <jonatan_12eduardo@hotmail.com>
+Date:   Tue Mar 18 23:01:30 2025 -0500
+
+    nueva aplicacion java
+
+A	JavaApplication1.java
